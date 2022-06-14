@@ -1,7 +1,7 @@
 # memtest
 Test Integrity of RAM in Strips using this small C program
 
-Compile using your platform's C compiler, and run from the CLI.
+Compile using your platform's C compiler, and run from the shell / commmand line.
 
 Only two parameters needed to run.
 
